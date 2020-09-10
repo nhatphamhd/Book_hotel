@@ -1,0 +1,3 @@
+CREATE  USER book_hotel WITH PASSWORD '123456';
+CREATE DATABASE book_hotel OWNER book_hotel ENCODING = 'UTF8';
+CREATE SCHEMA book_hotel;
